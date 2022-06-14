@@ -1,1 +1,1 @@
-index.html doyasını aç
+index.html doyasını aç 
